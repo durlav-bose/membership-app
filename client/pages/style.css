@@ -1,0 +1,20 @@
+.Polaris-ButtonGroup.Polaris-ButtonGroup--segmented {
+  justify-content: center !important;
+}
+
+.Polaris-SkeletonPage__Header {
+  display: none !important;
+}
+
+.Polaris-ResourceList__ResourceListWrapper.Polaris-ResourceList__ResourceListWrapperWithBulkActions {
+  padding-bottom: 0px !important;
+}
+
+.seg-page nav {
+  margin: 20px !important;
+}
+
+.Polaris-IndexTable__TableRow.Polaris-IndexTable__TableRow--unclickable {
+  padding: 20px !important;
+}
+

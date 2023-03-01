@@ -1,0 +1,2 @@
+# This file stores configurations for your Shopify app.
+scopes = "read_content,write_content,read_customers"

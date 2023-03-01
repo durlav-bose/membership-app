@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  membership-server:
+    build: 
+      context: .
+      args:
+        NODE_ENV: production
+    image: membership-app
+    container_name: membership-server
+    ports:
+      - "8081:8081"
+    # restart: unless-stopped
